@@ -65,6 +65,4 @@ Have fun automating!
 ---
 
 **Author:** Zafer Steele
-**Maintainers:** Zafer Steele 
-
 ---
